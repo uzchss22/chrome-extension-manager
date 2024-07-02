@@ -1,5 +1,6 @@
 # Extension Manager
 Manage your Chrome extensions effortlessly with Extension Manager.
+---
 
 ### Description:
 Extension Manager is a powerful tool that lets you easily enable or disable your installed Chrome extensions. With a simple and intuitive interface, you can manage your extensions efficiently, saving you time and hassle.
