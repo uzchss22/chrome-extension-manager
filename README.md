@@ -29,3 +29,6 @@ As a user of multiple Chrome extensions, I often encountered conflicts between t
 ### Privacy and Security:
 Permissions: Requires management permissions to control your extensions.
 Data Security: Extension Manager does not collect any personal data. Your settings and usage are entirely local to your browser.
+
+### Contact Us:
+If you have any questions or feature requests, please feel free to contact us at choihyeok02@gmail.com. We appreciate your feedback and are always looking to improve Extension Manager.
