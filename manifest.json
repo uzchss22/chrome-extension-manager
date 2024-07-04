@@ -5,8 +5,7 @@
   "description": "Manage your Chrome extensions comfortably by enabling and disabling them with ease.",
   "permissions": [
     "management",
-    "commands",
-    "storage"
+    "commands"
   ],
   "action": {
     "default_popup": "popup.html"
